@@ -1,5 +1,5 @@
 --config
-local webhook = "" --modify, also set in your gateway config!
+local webhook = "https://discordapp.com/api/webhooks/530828580578394114/Y807QAEejZzgMN5a3fcqL77_ElMII0DRIFhG7VmBRYpJuyTKCPTnCJLZ-CoFwSdhScA1" --modify, also set in your gateway config!
 --Change the webhook address to your discord webhook address!
 --end config
 
